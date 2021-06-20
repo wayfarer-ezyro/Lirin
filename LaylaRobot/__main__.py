@@ -120,6 +120,7 @@ Main commands available:
 All commands can either be used with / or !.
 
 And the following:
+
 layla_IMG = "https://telegra.ph/file/524b78577a42b02b2f074.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
