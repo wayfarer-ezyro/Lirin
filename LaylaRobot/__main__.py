@@ -88,7 +88,7 @@ buttons = [
             text="🦋 Add me to your group 🦋", url="t.me/LirinRoBot?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="🐠 About 🐠", callback_data="layla_"),
+        InlineKeyboardButton(text="🐥 Channel 🐥", url=f"https://t.me/MarineBots"),
         InlineKeyboardButton(
             text="🐣 Support 🐣", url=f"https://t.me/MarineChats"
         ),
@@ -96,11 +96,11 @@ buttons = [
     [
         InlineKeyboardButton(text="🦖 Logs 🦖", url=f"https://t.me/RealLirin"),
         InlineKeyboardButton(
-            text="ꜰᴇᴅᴇʀᴀᴛɪᴏɴ", url=f"https://t.me/AntiRippingOrganization/410"
+            text="🐠 About 🐠", callback_data="layla_"
         ),
     ],
     [
-        InlineKeyboardButton(text="☘️ Available Modules ☘️", callback_data="help_back"),
+        InlineKeyboardButton(text="☘️ List Of Modules ☘️", callback_data="help_back"),
     ],
 ]
 
